@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["girgis@ghattas.nl"]
   spec.summary       = "Ember-validation for Rails"
   spec.description   = "Ember-validations packaged for the Rails asset pipeline"
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/Gigha/ember-validations-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
